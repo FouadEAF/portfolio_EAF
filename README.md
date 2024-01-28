@@ -29,13 +29,13 @@ The navigation bar is an integral part of the project, providing easy access to 
 ------
 | Section | Description |
 ------
- *Home* | [Description] |
- *About* | [Description] |
- *Resume* | [Description] |
- *Services* | [Description] |
- *Skills* | [Description] |
- *Projects* | [Description] |
- *Contact* | [Description] |
+ | *Home* | [Description] |
+ | *About* | [Description] |
+ | *Resume* | [Description] |
+ | *Services* | [Description] |
+ | *Skills* | [Description] |
+ | *Projects* | [Description] |
+ | *Contact* | [Description] |
 
 ## Skills
 
