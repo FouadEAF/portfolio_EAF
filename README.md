@@ -1,4 +1,4 @@
-<img src="../portfolio_EAF/static/images/EAFLogo.jpg" alt="EAFLogo"  height="100px">
+<img src="https://github.com/FouadEAF/portfolio_EAF/blob/main/static/images/EAFLogo.jpg" alt="EAFLogo"  height="100px">
 
 # Project Portfolio
 
