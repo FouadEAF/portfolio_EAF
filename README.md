@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
 - [Navigation](#navigation)
 - [Sections](#sections)
-- [Technologies & Skills](#Technologies_&_Skills)
+- [Technologies & Skills](#Skills)
 - [Contact](#Contact)
 
 ## Introduction
@@ -37,7 +37,7 @@ The navigation bar is an integral part of the project, providing easy access to 
 - **Projects** | [Description]
 - **Contact** | [Description]
 
-## Technologies_&_Skills
+## Skills
 
 A list of technologies and tools that I commonly use in my projects. This can include programming languages, frameworks, databases, and other relevant tools.
 
