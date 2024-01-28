@@ -1,5 +1,5 @@
 <!-- <centre><dive style="height='50'"> ![LogoEAF](/static/images/EAFLogo.jpg)</div></centre> -->
-<img src="/static/images/EAFLogo.jpg" alt="EAFLogo"  height="40">
+<img src="../portfolio_EAF/static/images/EAFLogo.jpg" alt="EAFLogo"  height="40">
 # Project Portfolio
 
 ## Table of Contents
