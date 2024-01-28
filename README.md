@@ -1,4 +1,4 @@
-<centre>![LogoEAF](/static/images/EAFLogo.jpg)</centre>
+<centre><dive style="height='50'"> ![LogoEAF](/static/images/EAFLogo.jpg)</div></centre>
 # Project Portfolio
 
 ## Table of Contents
