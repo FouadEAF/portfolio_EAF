@@ -88,4 +88,4 @@ Feel free to reach out if you have any questions, suggestions, collaboration opp
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/fouad-el-azbi/)
 - GitHub: [GitHub](https://github.com/FouadEAF)
 
-<centre>Thank you for visiting my portfolio!</centre>
+<centre>**Thank you for visiting my portfolio!**</centre>
