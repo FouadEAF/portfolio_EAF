@@ -1,4 +1,7 @@
-<centre><img src="../portfolio_EAF/static/images/EAFLogo.jpg" alt="EAFLogo"  height="100"></centre>
+<centre>
+    <img src="../portfolio_EAF/static/images/EAFLogo.jpg" alt="EAFLogo"  height="100">
+</centre>
+
 # Project Portfolio
 
 ## Table of Contents
