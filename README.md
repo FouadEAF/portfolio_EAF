@@ -1,5 +1,6 @@
+<centre>
 <img src="https://github.com/FouadEAF/portfolio_EAF/blob/main/static/images/EAFLogo.jpg" alt="EAFLogo"  height="100px">
-
+</centre>
 # Project Portfolio
 
 ## Table of Contents
