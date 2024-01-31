@@ -32,13 +32,13 @@ The navigation bar is an integral part of the project, providing easy access to 
 
 | Section | Description |
 | ------- | ----------- |
- | *Home* | [Description] |
- | *About* | [Description] |
- | *Resume* | [Description] |
- | *Services* | [Description] |
- | *Skills* | [Description] |
- | *Projects* | [Description] |
- | *Contact* | [Description] |
+ | *Home* | offers a deeper understanding of the individual or organization behind the website. It typically includes information about the background, mission, values, and history. Visitors can gain insights into the people or ethos driving the content or services provided. |
+ | *About* | visitors can find a comprehensive overview of the individual's professional and educational background. |
+ | *Resume* | In the Resume section, visitors can find a comprehensive overview of the individual's professional and educational background. This may include details such as work experience, academic qualifications, certifications, and other relevant achievements.  |
+ | *Services* | The Services section outlines the specific offerings or expertise provided by the individual or organization. This could include details about the types of services, products, or solutions available. It aims to inform visitors about what makes the entity unique and valuable. |
+ | *Skills* | The Skills section focuses on highlighting the key competencies and abilities possessed by the individual. This could encompass technical skills, soft skills, and any other expertise relevant to the person's profession or industry. It provides a quick snapshot of the individual's strengths. |
+ | *Projects* | The Projects section showcases notable works, achievements, or initiatives undertaken by the individual or organization. This could include detailed descriptions, images, and outcomes of specific projects. It allows visitors to see practical applications of the skills and services offered. |
+ | *Contact* | The means to get in touch with the individual or organization. This typically includes contact information such as email addresses, phone numbers, or a contact form. It serves as a gateway for potential clients, collaborators, or employers to initiate communication. |
 
 ## Skills
 
